@@ -29,6 +29,8 @@ rutracker.org##DIV[id="traf-ru"][class="tCenter"]
 siliconrus.com##DIV[class="b-header-adblock"]
 siliconrus.com/static/main/js/statistics/losssy.jquery.js
 twentysix.ru##ASIDE[id="toolbarpluso"][class="plusob"]
+twentysix.ru##ASIDE[id="toolbarpluso"][class="plusob"]
+www.aliexpress.com##DIV[id="top-banner-container"][class="top-banner-container"]
 www.aliexpress.com##DIV[id="top-banner-container"][class="top-banner-container"]
 www.gpsies.com##DIV[id="banner"][class="advertisement"]
 www.linkedin.com##DIV[id="pymk"][class="leo-module mod-util mod-custom pymk pymk-redesign"]
